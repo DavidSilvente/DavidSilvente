@@ -5,11 +5,11 @@
 <h3 align="center">Un apasionado desarrollador software de Almería</h3>
 
 
-- 🔭 Actualmente trabajo en [mi TFG](https://github.com/DavidSilvente/tfg_cine_app)
+- 🔭 Actualmente trabajo en mi [TFG](https://github.com/DavidSilvente/tfg_cine_app)
 
 - 🌱 Estoy estudiando **Kotlin y Angular**
 
-- 👨‍💻 Todos mis proyectos están [MIDOMINIO.COM](MIDOMINIO.COM)
+- 👨‍💻 Todos mis proyectos están en mi [portfolio](https://portfolio-cy4obusun-davidsilventes-projects.vercel.app/)
 
 - 📫 Puedes contactarme en **dsilvente2@gmail.com**
 
