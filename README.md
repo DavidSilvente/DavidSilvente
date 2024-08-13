@@ -9,7 +9,7 @@
 
 - 🌱 Estoy estudiando **Kotlin y Angular**
 
-- 👨‍💻 Todos mis proyectos están en mi [portfolio](https://portfolio-cy4obusun-davidsilventes-projects.vercel.app/)
+- 👨‍💻 Todos mis proyectos están en mi [portfolio](portfolio-davidsilventes-projects.vercel.app)
 
 - 📫 Puedes contactarme en **dsilvente2@gmail.com**
 
